@@ -1,5 +1,3 @@
-package java;
-
 public class meregeTwoLists {
     /**
  * Definition for singly-linked list.

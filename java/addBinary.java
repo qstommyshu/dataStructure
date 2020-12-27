@@ -1,4 +1,3 @@
-package java;
 public class addBinary {
     public static void main(String[] args) {
         System.out.println(addBinary("10110", "01001"));
